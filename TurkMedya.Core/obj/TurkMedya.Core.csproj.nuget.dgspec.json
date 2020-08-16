@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Core\\TurkMedya.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Core\\TurkMedya.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Core\\TurkMedya.Core.csproj",
+        "projectName": "TurkMedya.Core",
+        "projectPath": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Core\\TurkMedya.Core.csproj",
+        "packagesPath": "C:\\Users\\922415\\.nuget\\packages\\",
+        "outputPath": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\922415\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Tfs\\THY\\DEV\\CommonBin\\Internal": {},
+          "D:\\nugetpackages": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\TurkMedya.Model.csproj": {
+                "projectPath": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\TurkMedya.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\TurkMedya.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\TurkMedya.Model.csproj",
+        "projectName": "TurkMedya.Model",
+        "projectPath": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\TurkMedya.Model.csproj",
+        "packagesPath": "C:\\Users\\922415\\.nuget\\packages\\",
+        "outputPath": "D:\\users\\922415\\Desktop\\TurkMedya\\TurkMedya.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\922415\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Tfs\\THY\\DEV\\CommonBin\\Internal": {},
+          "D:\\nugetpackages": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

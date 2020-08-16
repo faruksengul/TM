@@ -1,0 +1,12 @@
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\bin\Debug\netcoreapp3.1\TurkMedya.Core.deps.json
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\bin\Debug\netcoreapp3.1\TurkMedya.Core.dll
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\bin\Debug\netcoreapp3.1\TurkMedya.Core.pdb
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\bin\Debug\netcoreapp3.1\TurkMedya.Model.dll
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\bin\Debug\netcoreapp3.1\TurkMedya.Model.pdb
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.csprojAssemblyReference.cache
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.AssemblyInfoInputs.cache
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.AssemblyInfo.cs
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.csproj.CoreCompileInputs.cache
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.csproj.CopyComplete
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.dll
+D:\users\922415\Desktop\TurkMedya\TurkMedya.Core\obj\Debug\netcoreapp3.1\TurkMedya.Core.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TurkMedya.Core/1.0.0": {
+        "dependencies": {
+          "TurkMedya.Model": "1.0.0"
+        },
+        "runtime": {
+          "TurkMedya.Core.dll": {}
+        }
+      },
+      "TurkMedya.Model/1.0.0": {
+        "runtime": {
+          "TurkMedya.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TurkMedya.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TurkMedya.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
